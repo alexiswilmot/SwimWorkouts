@@ -2,8 +2,7 @@
 ## WARMUP: 500yds
 **300** knuckle drill, `30s rest` <p>
 **200** free, `30s rest` <p>
-## breath control: 600yds
-**200** breathe on 3, `60s rest` <p>
+## breath control: 400yds
 **200** 50 breathe on 3, 100 breathe on 5, 50 breathe on 3, `60s rest` <p>
 **200** breathe on 5, `60s rest` <p>
 ## freestyle set: 1100yds
