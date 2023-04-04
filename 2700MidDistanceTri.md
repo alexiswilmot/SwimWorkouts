@@ -3,7 +3,7 @@
 **200** choice, `30s` <p>
 **100** kick, `15s`<p>
 **100** free, `30s`<p>
-**4x25** build, `15`<p>
+**4x25** build, `15s`<p>
 ## Distance set: 1800yds
 **50** moderate, `30s` <p>
 **100** moderate, `30s` <p>
