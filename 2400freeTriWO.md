@@ -1,4 +1,4 @@
-# 2400 yards
+# 2400 yards: distance tri workout
 ## WARMUP: 500yds
 **300** knuckle drill, `30s rest` <p>
 **200** free, `30s rest` <p>
