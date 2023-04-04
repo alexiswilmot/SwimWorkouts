@@ -5,7 +5,7 @@
 ## freestlye set: 300yds total
 **4x50** drill/swim, fingertip drill, `30-45s rest` <p>
 **100** freestyle, kick swim, kick swim `60s rest` <p>
-#### if you want to break this up to 2x50 you can but try not to
+##### if you want to break this up to 2x50 you can but try not to
 ## breaststroke set: 300yds total
 **2x50** breaststroke kick, `30s rest` <p>
 **2x100** breaststroke, `60s rest` <p>
