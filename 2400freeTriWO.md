@@ -8,7 +8,8 @@
 ## freestyle set: 1100yds
 **200** drill, 3 strokes right, 3 left, `60s rest` <p>
 **400** strong, `2min rest` <p>
-**10x50** free sprint, `60s rest` <p>
+**200** moderate <p>
+**6x50** free sprint, `60s rest` <p>
 ## COOLDOWN: 400yds
 **100** choice <p>
 **300** easy CD
